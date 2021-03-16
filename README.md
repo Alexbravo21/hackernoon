@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-### `yarn add` // `npm i`
+### `yarn install` // `npm i`
 
 To install al dependencies
 
